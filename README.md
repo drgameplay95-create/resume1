@@ -11,4 +11,4 @@ To view my first site, download the files mentioned, place them in a folder, and
 
 code output
 ![description](1.png)
-![description](1.png)
+![description](2.png)
